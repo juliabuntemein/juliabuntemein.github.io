@@ -827,26 +827,20 @@ img {
 /* #       Links       # */
 /* ##################### */
 .content a {
-  padding: 0.25rem;
   font-weight: 500;
   font-style: italic;
 }
-.content a::before {
+/* .content a::before {
   content: "{";
-  display: inline-block;
-  padding-right: 0.25rem;
-  color: var(--muted);
-  text-decoration-line: none;
+  @apply pr-1 text-muted inline-block no-underline;
 }
+
 .content a::after {
   content: " }";
-  display: inline-block;
-  padding-left: 0.25rem;
-  color: var(--muted);
-  text-decoration-line: none;
-}
+  @apply pl-1 text-muted inline-block no-underline;
+} */
 .content a:hover {
-  text-decoration-line: none;
+  text-decoration-line: underline;
 }
 .content ul {
   margin-left: 1.5rem;
