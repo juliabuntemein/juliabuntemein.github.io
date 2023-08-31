@@ -34,10 +34,10 @@ name = "julia bunte-Mein"
   url = "https://open.spotify.com/show/7n18cv0xsBTLAEdgSOJEcE"
   weight = 2
 
-  [[menu.nav]]
-  name = "Writing"
-  url = "https://spectacled-geranium-4fc.notion.site/c6aef6de4a424a2b9f1a8f782cd3ae85?v=964567d0afed4a779e1adc4a90ebf90e&pvs=4"
-  weight = 2
+  # [[menu.nav]]
+  # name = "Writing"
+  # url = "https://spectacled-geranium-4fc.notion.site/c6aef6de4a424a2b9f1a8f782cd3ae85?v=964567d0afed4a779e1adc4a90ebf90e&pvs=4"
+  # weight = 2
 
   [[menu.nav]]
   name = "Posts"
