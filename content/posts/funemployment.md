@@ -4,6 +4,7 @@ date: 2023-06-12T11:04:25+01:00
 draft: false
 ---
 
+
 *It's a Monday and all six of my housemates sit around our long wooden kitchen table. It's 1:30pm and we're enjoying a leisurely brunch. Just as we are about dive into fluffy scrambled eggs, two more neighborhood friends unexpectedly enter our kitchen, having let themselves in with our liberally-copied house key.*
 
 *This meal convened spontaneously, with all of us meandering into the kitchen, hungry, at around the same time. Sophie, let's call her, who commutes to Apple Park in Cupertino 3 days a week, exclaims, "Is this what it's always like at home during the week these days??" She is the last remaining housemate with a full-time, 9'-5' job. The rest of us, products of recent tech lay-offs, burn-out, and/or finally taking the leap to pursue our independent, creative endeavors, look around with sheepish grins..."Yeah haha, you should work from home more often! Or better yet, quit your job already!"*

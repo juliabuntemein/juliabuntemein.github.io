@@ -25,17 +25,17 @@ Practically, this relates to climate from two angles of behavior change. Firstly
 
 The second angle is the reality-check that, of course, we still need plenty of people to work on climate solutions. Good vibes alone can't counteract the damage we have already done or limit warming to 1.5**°**C. Yet our climate efforts will be immeasurably easier if driven by a positive view of human nature. Furthermore, if compassion is driving us to work on climate, it would be completely hypocritical for those values to not be consistent in the other parts of our lives. This applies to how we treat our co-workers, our competitors, and ourselves.
 
-**I. Negative Attitudes of Human Nature**
+**Negative Attitudes of Human Nature**
 
 A society's dominant views on human nature are extremely influential on its institutions and members. Unfortunately, the view on humanity that has dominated the Western world is generally pessimistic, that people are basically bad, selfish, and separate. Just like the placebo effect is extremely effective, its opposite (called the *nocebo effect,* seriously) is equally powerful. If you believe a sugar pill will make you sick, it likely will. If you have negative expectation of someone, your implicit or explicit behavior towards them will have a strong influence on making those expectations a reality. This is called a reinforcing negative feedback loop and is one of the vicious mechanisms that perpetuate racism, patriarchy, individualism, and materialism. Reinforcing feedback loops are so pernicious because they escalate and drain the system's resources, threatening to destroy the system entirely.
 
-II. **Resulting** **Climate Abuse**
+**Resulting** **Climate Abuse**
 
 So what does this mean for our planet? For 99% of human history, our existence has not posed a dire threat to our planet. Yet, since the Industrial Revolution in the late 1880s, we've been perpetuating reinforcing feedback loops of individualism, materialism, and unchecked growth. These developments significantly improved the lives of most people, but at the cost of our planet. These returns us to my original question of --- how did we get to this point?
 
 The Earth has been giving us signs for decades that she isn't happy or healthy but our striving, coercive, individualist behavior has numbed us to those signals. Driven by underlying fear and disconnecting attitudes, we stopped caring about the planet and instead viewed nature as a set of resources to be converted to human purposes.
 
-III. **Compassion**
+**Compassion**
 
 As you can see, attitude makes all the difference. If we collectively adopt a view of human nature that is good not evil, collaborative not competitive, trustworthy not selfish, and interconnected not isolated, our behaviors and institutions will change, and as a result, we can restore a way of life on our planet that is harmonious and sustainable. We have a problem with extractive, exploitative behaviors, but the core problem is the mindset. Some people would say that mindset is capitalism, but I'd call it a scarcity mindset. There are good and bad things about capitalism, but the bad things all come from the place of fear.
 
@@ -44,7 +44,7 @@ Historian and author Rutger Bregman explains in his book, [Humankind: A Hopeful 
 What is compassion anyway? I like the simple equation: kindness + suffering = compassion. This equation is meant to remind us of our common humanity. We all experience fear, loss, and pain, and basically want the same thing --- love, joy, and community.
 
 
-**II. Applications**
+**Applications**
 
 So what does this mean, in practice, as we continue to work on solving system problems, such as combatting climate change? As I mentioned in the introduction, I believe that adopting this mindset will change our lifestyles to be less fossil-fuel intensive. Beyond that, there are a few ways in which we can practice value consistency, that I outline below:
 
@@ -67,7 +67,7 @@ So what does this mean, in practice, as we continue to work on solving system pr
     Developing self forgiveness, self-compassion, and equanimity in the face of internal turmoil is a gift to all those around us, as we bring those same qualities into our relationships, professional and personal. Maintaining a healthy work-life balance, establishing and upholding boundaries, practicing saying "no," and taking a break from work altogether if necessary, are all consistent in value with a mission to help our planet.
 
 
-**II. More on Self-Compassion**
+**More on Self-Compassion**
 
 > *"The inner devastation of the Western psyche matches exactly the outer devastation it has wrecked upon the planet."* --- Charles Einstein
 
